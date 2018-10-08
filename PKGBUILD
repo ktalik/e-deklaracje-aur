@@ -11,7 +11,7 @@ license=('custom')
 depends=('acroread' 'adobe-air')
 source=("e-deklaracje-$pkgver.air::http://www.finanse.mf.gov.pl/documents/766655/1196444/e-DeklaracjeDesktop.air"
          'e-deklaracje.desktop')
-sha256sums=('5c603dae387479b07832f45af9802e8ad3f63eefd51603005d9af55eccca6b75'
+sha256sums=('2ffff712fc369cb42a9fcd52af4157b3583a2a38618d7b0e7c7fc31613e87afe'
             'ca9f9337fb40301d34f3e853dd9d7a83374caa0b0bb27fa95310f4dbeeb83743')
 noextract=(e-deklaracje-$pkgver.air)
 
